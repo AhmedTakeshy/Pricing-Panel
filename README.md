@@ -39,5 +39,5 @@ Users should be able to:
 
 ### Useful resources
 
-- [Google font](https://fonts.google.com/) - This helped me to use different fonts. I really liked it and it is easy to use.
+- [Google fonts](https://fonts.google.com/) - This helped me to use different fonts. I really liked it and it is easy to use.
 
