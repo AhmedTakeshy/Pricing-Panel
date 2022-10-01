@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://ahmedtakeshy.github.io/Pricing-Panel/)
+- Live Site URL: [Pricing-Panel](https://ahmedtakeshy.github.io/Pricing-Panel/)
 
 ### Built with
 
